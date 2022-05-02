@@ -1,5 +1,5 @@
-# DIO-Inter-Bootcamp
-Repositório de projetos relacionados ao Bootcamp Inter Frontend Developer em 2021-2022 na DIO
+# Exercícios e Desafios Let's Code
+Repositório de exercícios e desafios feitos durante o curso de Data Science da Let's Code
 
-Conforme novos itens forem adicionados, uma nova pasta será adicionada ao repositório e registrada neste arquivo.
+Conforme novos itens forem adicionados, serão registrados neste arquivo.
 
